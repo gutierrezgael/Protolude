@@ -82501,7 +82501,7 @@ MonoBehaviour:
   textOperator: 0
   floatThreshold: 0
   intThreshold: 0
-  boolThreshold: 0
+  boolThreshold: 1
   stringThreshold: 
 --- !u!114 &1453555948
 MonoBehaviour:
